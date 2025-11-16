@@ -1,0 +1,18 @@
+fecha: 10/10/2025
+
+Placa del Arduino:
+Arduino UNO R3 compatible
+
+Dispositivos externos usados:
+Se uso un led azul aparte de la placa de Arduino.
+
+Objetivo del código:
+El propósito de este código es controlar un LED externo conectado al Arduino para que realice distintas acciones de manera secuencial dentro de un bucle (loop).
+Primero, el LED emitirá una señal en código Morse correspondiente a "SOS", encendiéndose y apagándose según cada letra.
+
+
+Alguna función especifica o librería que se uso:
+El led se tuvo que conectar a otro pin, en este caso usamos el pin 9 porque el 13 no podia realizar ninguna acción
+
+Link del video del funcionamiento:
+https://youtu.be/M8Y2fI9a83g
