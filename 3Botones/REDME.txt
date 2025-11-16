@@ -1,4 +1,4 @@
-fecha: 10/10/2025
+fecha: 16/10/2025
 
 Placa del Arduino:
 Arduino UNO R3 compatible
