@@ -1,0 +1,20 @@
+fecha: 16/11/2025
+
+Placa del Arduino:
+Arduino UNO R3 compatible
+
+Dispositivos externos usados:
+Se uso un led azul, una placa de Arduino, una protoboard, jumpers y 3 botones
+
+Objetivo del código:
+El propósito de este código es controlar un LED externo conectado al protoboard para que realice distintas acciones mediante el uso de botones de manera que cada botón que se presione realice una acción dentro de un bucle (loop).
+Primero tendrá un botón para que el LED emitirá una señal en código Morse correspondiente a "SOS", encendiéndose y apagándose según cada letra.
+Después el segundo botón ara que el led parpadee (blink) siete veces.
+Luego el tercer botón ara que el LED haga un efecto de pulso (pulse) .
+Finalmente tendrá un botón que haga una interrupción y que pare la ejecución de otro botón que se allá presionado.
+
+Alguna función especifica o librería que se uso:
+Las funciones que necesita el botón como: INPUT_PULLUP para que haga la accion de botón cuando se presiones y detecte que si se presiono y para la interrupción solo se uso un método que detiene la accion que se este ejecutando al instante
+
+Link del video del funcionamiento:
+https://youtu.be/4wvlfoig_v0
